@@ -16,7 +16,8 @@ Techniques Used:
   - Correcting Data Types
   - Removing Duplicate Rows
   - Outlier Detection
-  Exploratory Data Analysis (EDA):
+
+Exploratory Data Analysis (EDA):
   - Univariate Analysis
   - Bi-variate Analysis
   - Multi-variate Analysis
